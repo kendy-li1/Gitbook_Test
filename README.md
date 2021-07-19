@@ -1,6 +1,8 @@
-# Untitled
+---
+description: (Test page for gitbook or stackedit comparison)
+---
 
-## SnapLogic Documentation Style Guide Single-Pager
+# SnapLogic Documentation Style Guide Single-Pager
 
 This document lists out the writing and stylistic guidelines that the SnapLogic Documentation team recommends for all its output. Compiled by collating guidance received from team members, this is a living document. If you have any concerns with the guidance provided here, or if you wish to make any recommendations for enhancement, please mail [documentation@snaplogic.com](mailto:documentation@snaplogic.com).
 
