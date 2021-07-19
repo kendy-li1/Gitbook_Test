@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [SnapLogic Documentation Style Guide Single-Pager](README.md)
 
