@@ -1,4 +1,4 @@
 # Table of contents
 
-* [SnapLogic Documentation Style Guide Single-Pager](README.md)
+* [Fake Data: What to use in examples](README.md)
 
