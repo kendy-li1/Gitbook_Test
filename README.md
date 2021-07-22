@@ -2,7 +2,7 @@
 
 Let's define sensitive data as the following:
 
-* Any \(test\) customer data, test this side too including account information, user names, IP addresses, business data, or information about the customer unless explicitly stated otherwise.
+* Any \(test\) customer data, \(test from Github side\) including account information, user names, IP addresses, business data, or information about the customer unless explicitly stated otherwise.
 * Personal data of SnapLogic employee \(including last names and email\)
 * SnapLogic code or internal-only information \(such as project names and internal names for SnapLogic projects not meant for public viewing\)
 * Passwords
